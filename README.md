@@ -1,12 +1,12 @@
 ![Jayant Vishwakarma Banner](https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/Banner.png.png?raw=true)
 
-<img alt="Night Coding" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width='40' align="left"/><h2>Hey there! I'm Jayant</h2>
+<img alt="hand wave" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width='40' align="left"/><h2>Hey there! I'm Jayant</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Jayant -->
 
 
 # <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width='40' align="left"/> About Me:
-💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🌱  I'm on track for learning more about Web Developer and Graphic Designer.<br>✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at vishwakarmajayant@gmail.com ! I'll try to respond as soon as I can.<br>📄  Please have a look at my [website](https://developerjayant.me) for more details about me. I'm open to feedback and suggestions!
+💡  I like to explore new technologies and develop web solutions and quick hacks.<br>🌱  I'm on track for learning more about Web Developer and Graphic Designer.<br>✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at vishwakarmajayant@gmail.com ! I'll try to respond as soon as I can.<br>📄  Please have a look at my [website](https://developerjayant.me) for more details about me. I'm open to feedback and suggestions!
 
 <img align="right" alt="coding" width="400" src="https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/animation.gif.gif?raw=true">
 
@@ -30,4 +30,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jayantvishwakarma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created Jayant Vishwakarma -->
