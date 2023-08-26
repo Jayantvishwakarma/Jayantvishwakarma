@@ -15,7 +15,7 @@
 [![profile visit](https://visitcount.itsvg.in/api?id=Jayantvishwakarma&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developer_jayant) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-vishwakarma-21030825a)
-[![Sololearn](https://img.shields.io/badge/Sololearn-12100E?style=for-the-badge&logo=sololearn&logoColor=white)](https://sololearn.com/jayantvishwakarma) 
+[![Sololearn](https://img.shields.io/badge/Sololearn-12100E?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/8693563/) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@developerjayant) 
 
