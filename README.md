@@ -18,7 +18,7 @@
 [![Sololearn](https://img.shields.io/badge/Sololearn-12100E?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/8693563) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@developerjayant) 
-[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">](https://youtube.com/@developerjayant) 
+ 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
