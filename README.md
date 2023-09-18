@@ -174,6 +174,11 @@
 
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=?) -->
 
+<picture> 
+  <div>
+  <img src="github-user-contribution.svg"/>
+</div>
+</picture>
 ### 🎵 Music Apps:
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
