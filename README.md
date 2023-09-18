@@ -170,6 +170,10 @@
 ![DELL](https://img.shields.io/badge/dell-000080.svg?style=for-the-badge&logo=dell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+### 🎵 Music Apps:
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![YT Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+
 <!-- ## 🛒 Apps on Store
 
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=?) -->
@@ -179,10 +183,10 @@
   <img src="github-user-contribution.svg"/>
 </div>
 </picture>
-### 🎵 Music Apps:
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![YT Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 # 📊 GitHub Analytics:
 
@@ -193,9 +197,11 @@
 </a>
 </p>
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayantvishwakarma&theme=vue)
-![stats](https://github-readme-stats.vercel.app/api?username=jayantvishwakarma&show_icons=true&theme=vue)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=jayantvishwakarma&theme=vue)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayantvishwakarma&theme=algolia)
+![stats](https://github-readme-stats.vercel.app/api?username=jayantvishwakarma&show_icons=true&theme=algolia)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=jayantvishwakarma&theme=algolia)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 ### ✍️ Random Dev Quote
