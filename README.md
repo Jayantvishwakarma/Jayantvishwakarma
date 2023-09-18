@@ -174,13 +174,7 @@
 
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=?) -->
 
-<picture> 
-  <div>
-  <img src="github-user-contribution.svg"/>
-</div>
-</picture>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayantvishwakarma&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
@@ -198,8 +192,14 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=jayantvishwakarma&show_icons=true&theme=algolia)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=jayantvishwakarma&theme=algolia)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<picture> 
+  <div>
+  <img src="github-user-contribution.svg"/>
+</div>
+</picture>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
