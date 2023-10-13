@@ -6,6 +6,7 @@
 
 
 # <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width='40' align="left"/> About Me:
+<img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
 Hey there! 👋 I'm Jayant Vishwakarma, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
   <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
