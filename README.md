@@ -1,4 +1,4 @@
-![Jayant Vishwakarma Banner](https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/Banner.png.png?raw=true)
+![Jayant Vishwakarma Banner](https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/banner.gif?raw=true)
 
 <img alt="hand wave" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width='40' align="left"/><h2>Hey there! I'm Jayant</h2>
 
