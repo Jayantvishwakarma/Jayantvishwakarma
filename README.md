@@ -1,12 +1,12 @@
 ![Jayant Vishwakarma Banner](https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/banner.gif?raw=true)
 
-<img alt="hand wave" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width='40' align="left"/><h2>Hey there! I'm Jayant</h2>
+<img alt="hand wave" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width='40' align="left"/><h2>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Hey%2C++I'm+Jayant+Vishwakarma+;Welcome+to+my+Profile!)](https://git.io/typing-svg)</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jayant -->
 
 
 # <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width='40' align="left"/> About Me:
-<img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
+<img align="right" src="https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/design.gif" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
 Hey there! 👋 I'm Jayant Vishwakarma, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
   <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
@@ -18,8 +18,7 @@ Hey there! 👋 I'm Jayant Vishwakarma, a Full Stack developer who loves to crea
   <br>Feel free to explore my projects and get in touch for collaborations!<br>
 </p>
 
-
-<img align="right" alt="coding" width="400" src="https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/animation.gif.gif?raw=true">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🌐 Socials:
 
