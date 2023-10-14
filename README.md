@@ -1,6 +1,13 @@
 ![Jayant Vishwakarma Banner](https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/banner.gif?raw=true)
 
-<img alt="hand wave" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width='40' align="left"/><h2>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Hey%2C++I'm+Jayant+Vishwakarma+;Welcome+to+my+Profile!)](https://git.io/typing-svg)</h2>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<div align="center">
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Hey%2C++I'm+Jayant+Vishwakarma+;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
+</div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jayant -->
 
@@ -18,9 +25,11 @@ Hey there! 👋 I'm Jayant Vishwakarma, a Full Stack developer who loves to crea
   <br>Feel free to explore my projects and get in touch for collaborations!<br>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-### 🌐 Socials:
+<div align="center">
+<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> Social Networks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
+
 
 [![profile visit](https://visitcount.itsvg.in/api?id=Jayantvishwakarma&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developer_jayant) 
@@ -28,10 +37,14 @@ Hey there! 👋 I'm Jayant Vishwakarma, a Full Stack developer who loves to crea
 [![Sololearn](https://img.shields.io/badge/Sololearn-12100E?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/8693563) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@developerjayant) 
  
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%">
+<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Tech Stacks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
+ <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
 ### **📋 Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
