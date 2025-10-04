@@ -15,13 +15,15 @@
 # <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width='40' align="left"/> About Me:
 <img align="right" src="https://github.com/Jayantvishwakarma/Jayantvishwakarma/blob/main/design.gif" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
-Hey there! 👋 I'm Jayant Vishwakarma, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
-  <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
-  <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
-  <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
+Hey there! I'm currently pursuing my MCA, but honestly, the real learning happens when you build stuff that people actually use. Started with the basics of coding and gradually worked my way up to building modern web apps with Next.js, React.js, and TailwindCSS.
+
+After working on various projects, I've realized that great code isn't just about writing clean lines - it's about really understanding what people need and finding smart ways to solve their problems. Right now, I'm diving deep into AI, ML, and agent-based projects because I believe they're the future of building better solutions.
+
+I love creating solutions that actually scale and work well in the real world. Every project teaches me something new about user experience and how to turn complex problems into elegant, simple solutions.
+<br>
   <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!
  <br>-✉️  You can shoot me an email at vishwakarmajayant0@gmail.com ! I'll try to respond as soon as I can.
- <br>-📄  Please have a look at my [website](https://developerjayant.me) for more details about me. I'm open to feedback and suggestions!
+ <br>-📄  Please have a look at my [website](https://jayantvishwakarma.github.io/portfolio/) for more details about me. I'm open to feedback and suggestions!
   <br>Feel free to explore my projects and get in touch for collaborations!<br>
 </p>
 
