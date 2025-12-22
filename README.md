@@ -58,64 +58,11 @@ Passionate Full-Stack Web Developer with expertise in building scalable, user-ce
 - 📚 Self-directed learning through building production-ready projects
 - 🤝 Contributing to open-source community and collaborative development
 
----
-
-## 🚀 Featured Projects
-
-### **[OMACHA SHOP](https://github.com/Jayantvishwakarma)** - E-Commerce Platform
-*PHP • MySQL • JavaScript • Bootstrap*
-
-A comprehensive toy e-commerce platform with robust admin panel and seamless user experience.
-
-**Key Features:**
-- ✅ Full-stack e-commerce platform with secure user authentication
-- 🛠️ Robust admin panel for product, order, and user management
-- 📱 Responsive design ensuring seamless experience across all devices
-- 💳 Integrated payment gateway and order tracking system
-- 📊 Real-time inventory management and analytics dashboard
-
-**Technical Highlights:** Backend architecture with PHP, MySQL database design, RESTful API development, Bootstrap responsive UI
-
----
-
-### **[BRICKSHOP](https://github.com/Jayantvishwakarma)** - Modern E-Commerce Hub
-*Node.js • Express.js • MongoDB • TailwindCSS*
-
-A modern e-commerce platform for building block enthusiasts with sleek admin interface.
-
-**Key Features:**
-- 🎨 Modern e-commerce hub developed with Node.js and Express.js
-- 💻 Sleek and efficient admin UI built with Tailwind CSS
-- 🗄️ Non-relational database (MongoDB) for scalable data management
-- 🔐 JWT-based authentication and authorization
-- ⚡ Fast, optimized performance with modern JavaScript stack
-
-**Technical Highlights:** RESTful API architecture, MongoDB database design, modern ES6+ JavaScript, Tailwind CSS styling
-
----
-
-### **[ANIME.TV](https://github.com/Jayantvishwakarma)** - Streaming Platform
-*JavaScript • HTML5 • CSS3*
-
-Personal project inspired by Crunchyroll, showcasing strong front-end development skills.
-
-**Key Features:**
-- 🎬 Dynamic user experience for browsing and discovering anime
-- 🎨 Built with pure vanilla JavaScript - no frameworks
-- 📺 Video streaming interface with custom player controls
-- 🔍 Search and filter functionality for content discovery
-- 📱 Fully responsive design with modern UI/UX principles
-
-**Technical Highlights:** Vanilla JavaScript DOM manipulation, CSS3 animations, HTML5 video APIs, responsive design patterns
-
----
-
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### **Frontend Development**
@@ -128,7 +75,6 @@ Personal project inspired by Crunchyroll, showcasing strong front-end developmen
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -217,8 +163,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created Jayant Vishwakarma -->
