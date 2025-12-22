@@ -42,7 +42,7 @@ Passionate Full-Stack Web Developer with expertise in building scalable, user-ce
 ## 💼 Professional Experience
 
 ### **LetsUpgrade Student Ambassador**
-**LetsUpgrade** | *May 2025 - Aug 2025*
+**LetsUpgrade** | *Dec 2025 - Present*
 
 - 📢 Promoted tech bootcamps, workshops, and hackathons across college campus
 - 👥 Built and engaged a community of **200+ students**, increasing participation in online learning events
